@@ -57,8 +57,7 @@ def main():
     print("\nВозможные дополнительные расходы:")
     for item in extra_expenses:
         print(f"- {item}")
-    # Тестовый коммит
-
-
+    
 if __name__ == "__main__":
     main()
+# Тестовый коммит
